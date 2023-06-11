@@ -11,7 +11,7 @@
 - With on and off state.
 
 
-![preview](https://github.com/mahboobehpaseban/melolearn-toggle-switch/assets/121792560/1ccfa0cf-b32d-4ea4-b421-7857b7440f29)
+![preview](https://github.com/mahboobehpaseban/melolearn-toggle-switch/assets/121792560/7cc23c86-6523-4c7d-924c-618ae28e1eee)
 
 
 [24b75aba-13d4-4a34-a0f8-59e6edec665f.webm](https://github.com/mahboobehpaseban/melolearn-toggle-switch/assets/121792560/0bc23317-edde-41bf-84af-dffbacae61b6)
